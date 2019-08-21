@@ -1,0 +1,13 @@
+body {
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	text-align: center;
+	background: url(../img/programming-backgrounds_1822521.jpg);
+}
+
+.alert {
+	color: black;
+}
+
+p {
+	font-weight: 600;
+}
